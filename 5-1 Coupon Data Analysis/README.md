@@ -1,4 +1,4 @@
-#Coupon Analysis Report
+# Coupon Analysis Report
 
 The data for this assignment came from the UCI Machine Learning repository. It was a survey fielded on Amazon Mechanical Turk which offered car drivers a coupon to a local food or beverage establishment. The dataset contains the survey responses, including the type of coupon offered, demographics of the driver, and environmental conditions. 
 The data was analyzed to address the question, “Will a customer accept the coupon?”,, comparing customers who accepted different types of coupons with those who did not.
