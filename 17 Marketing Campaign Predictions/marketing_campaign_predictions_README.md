@@ -26,7 +26,7 @@ Customers most likely to say ‘no’ had the lowest level of education, basic 4
 
 No other factors significantly impacted the likelihood of success, including other levels of education or types of jobs, age, marital status, or whether the customer held a housing or personal loan. The number of contacts by any campaign did not make a difference, nor did a high level of the Consumer Confidence Index.
 
-####Recommendations
+####  Recommendations
 Based on these findings, we recommend the following:
 
 • Since previous campaigns were one of the most important predictors of success or failure, subsequent campaigns should a)Cultivate deeper loyalty relationships with customers who say ‘yes’ and b) remove customers who said ‘no’ from further contact
