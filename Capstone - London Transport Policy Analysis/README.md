@@ -116,11 +116,11 @@ Further investigation of the misclassified cases could be performed, to more ful
 #### Outline of project
 
 - [Exploratory Data Analysis](https://github.com/abroaddus/AI-ML-Professional-Portfolio/blob/main/Capstone%20-%20London%20Transport%20Policy%20Analysis/Capstone_EDA.ipynb)
-- [Models for 2001 Dataset]()
+- [Models for 2001 Dataset](https://github.com/abroaddus/AI-ML-Professional-Portfolio/blob/main/Capstone%20-%20London%20Transport%20Policy%20Analysis/Capstone_Modeling_2001_Dataset.ipynb)
 - [Models for 2001 Dataset]()
 - [Models for Percent Change Dataset]()
 - [Final Report]()
 
 
 #### Contact and Further Information
-Andrea Broaddus, PdD
+Andrea Broaddus, PhD
