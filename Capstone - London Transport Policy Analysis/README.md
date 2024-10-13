@@ -12,7 +12,7 @@ There is a great deal of political resistance to the idea of reducing vehicle tr
 This project seeks evidence of changes in the urban economy of downtown London during a ten-year period after public transport improvements were introduced along with a congestion charging zone. If no evidence is found, the null hypothesis that these transport policies have no discernible impacts on land use will be supported.
 
 #### Hypothesis
-Public transit improvements paired with congestion charging produced accessibility benefits within the congestion charging zone which were capitalized into higher residential and commercial land rents. There were two primary drivers of change, lower travel times by public transit and increasing commercial rents. Improved accessibility by public transit made the zone more attractive to employers, meaning the population of firms grew and jobs became more concentrated there. Certain industries that were growing during the timeframe of the study became more concentrated in the zone, particularly creative and professional industries whose productivity relies upon employee interactions and knowledge spillovers, and business services industries whose customers are other firms. Other industries that were shrinking or did not receive productivity benefits were less able to keep up with rising commercial rents and became less concentrated in the zone, such as wholesalers and manufacturers. Higher commercial rents made the zone less attractive to others, in particular employers with vehicle fleets, small employers, and shrinking industries became less concentrated. Meanwhile higher residential rents kept the residential population stable or shrinking.
+The transport policies have had discernible impacts on land use and the congestion charging zone has become more differentiated from the rest of London. 
 
 #### Research Questions
 In the congestion charge zone, compared to other areas of London:
@@ -28,8 +28,11 @@ Congestion charging defines a zone or set of road corridors where drivers are ch
 
 The congestion charge was paired with extensive improvements to the public transport system. For example, many new buses were added to the fleet, and service frequencies were increased for both bus and rail services. Many studies have established the impact of public transport accessibility on land values, over time. For example, rents typically increase rapidly within a half-mile area around new commuter rail stations after they are built. In the lingo of urban economics, the accessibility benefits of public transport are capitalized into higher land values. A secondary impact of higher rents resulting from accessibility benefits is firm relocation. Only the firms that highly value accessibility are willing to pay higher rents for it. For example, large firms with many employees, or firms whose customers are other firms that value locating in urban agglomerations. Since congestion charging is an accessibility benefit similar to public transport improvements, should it have a similar observable effect? The research goal is to understand whether the congestion charging zone has discernible differences in urban economic data, after nearly a decade in operation.
 
+#### Theory of change
+Public transit improvements paired with congestion charging produced accessibility benefits within the congestion charging zone which were capitalized into higher residential and commercial land rents. There were two primary drivers of change, lower travel times by public transit and increasing commercial rents. Improved accessibility by public transit made the zone more attractive to employers, meaning the population of firms grew and jobs became more concentrated there. Certain industries that were growing during the timeframe of the study became more concentrated in the zone, particularly creative and professional industries whose productivity relies upon employee interactions and knowledge spillovers, and business services industries whose customers are other firms. Other industries that were shrinking or did not receive productivity benefits were less able to keep up with rising commercial rents and became less concentrated in the zone, such as wholesalers and manufacturers. Higher commercial rents made the zone less attractive to others, in particular employers with vehicle fleets, small employers, and shrinking industries became less concentrated. Meanwhile higher residential rents kept the residential population stable or shrinking.
+
 #### Constraints
-Since the congestion charge zone was paired with extensive improvements to the public transit system, it is difficult to disengle the effects of each measure. Since we do not have a counterfactual, or London without a congestion charge, it is impossible to isolate its impacts.
+The two transport policies, public transit improvement and congestion charging,  were paired together, making it difficult to disentangle the effects of each measure. Since we do not have a counterfactual case, or London without a congestion charge zone, it is impossible to isolate the impacts of these transport policies from other drivers of change and attribute the findings exclusively to them.
 
 #### Data Description
 Since this project seeks evidence of change over time, it uses a panel dataset with features representing the cases (LSOAs) at two points in time, and change over time:
@@ -42,10 +45,10 @@ The unit of analysis is the LSOA, or lower super output area, a statistical geog
 
 #### Data Sources
 The sources for the features described in the data dictionary below are as follows:
-•	Population data, UK Census
-•	Employment data and travel times, UK Department for Transport Accessibility Statistics
-•	Firms data, UK Office for National Statistics, Business Structure Database (microdata)
-•	Rents data, UK Valuation Office Agency, Commercial Floorspace Rateable Value Statistics
+-	Population data, UK Census
+-	Employment data and travel times, UK Department for Transport Accessibility Statistics
+-	Firms data, UK Office for National Statistics, Business Structure Database (microdata)
+-	Rents data, UK Valuation Office Agency, Commercial Floorspace Rateable Value Statistics
 It is important to note that the data used to represent commercial rent levels is not sourced from actual commercial rents, but from tax ratings data. This proxy was used because it is  publicly available and consistently calculated land valuation data.
 
 I created this dataset from public data sources in London, England during doctoral fieldwork in 2013 and 2014. Economic data was collected for 4765 small geographic areas in London called LSOAs, which are a similar size to electoral wards. Similar data for each LSOA was collected for two years, 2001 and 2011, including counts of people and firms, average travel times by car and public transport, and average rent levels for office and retail space. The methodology is fully described in the UC Berkeley dissertation, https://escholarship.org/uc/item/0px3f6gk 
