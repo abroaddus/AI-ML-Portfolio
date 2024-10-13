@@ -11,10 +11,10 @@ There is a great deal of political resistance to the idea of reducing vehicle tr
 #### Research Objectives
 This project seeks evidence of changes in the urban economy of downtown London during a ten-year period after public transport improvements were introduced along with a congestion charging zone. If no evidence is found, the null hypothesis that these transport policies have no discernible impacts on land use will be supported.
 
-##### Hypothesis
+#### Hypothesis
 Public transit improvements paired with congestion charging produced accessibility benefits within the congestion charging zone which were capitalized into higher residential and commercial land rents. There were two primary drivers of change, lower travel times by public transit and increasing commercial rents. Improved accessibility by public transit made the zone more attractive to employers, meaning the population of firms grew and jobs became more concentrated there. Certain industries that were growing during the timeframe of the study became more concentrated in the zone, particularly creative and professional industries whose productivity relies upon employee interactions and knowledge spillovers, and business services industries whose customers are other firms. Other industries that were shrinking or did not receive productivity benefits were less able to keep up with rising commercial rents and became less concentrated in the zone, such as wholesalers and manufacturers. Higher commercial rents made the zone less attractive to others, in particular employers with vehicle fleets, small employers, and shrinking industries became less concentrated. Meanwhile higher residential rents kept the residential population stable or shrinking.
 
-##### Research Questions
+#### Research Questions
 In the congestion charge zone, compared to other areas of London:
 -	Has the population of people grown or shrunk at a faster or slower rate? 
 -	Has employment in the congestion charge area grown or shrunk at a faster or slower rate? 
@@ -85,7 +85,6 @@ jobs	|Jobs	| Employment count
 | tsp	| Firms	| Transportation
 | ws	| Firms	 |Wholesale trade
 
-
 #### Methodology
 This project applied classification and supervised learning methods to address the research questions. Models were estimated for three datasets representing 2001, 2011 and percent change between those years. Results were compared between datasets. An improvement in classifier predictive power over time, as evidenced by higher metrics, was interpreted as evidence that the congestion charge zone has become more differentiated from other LSOAs over time.  
 
@@ -105,7 +104,8 @@ Modeling:
 The two transport policies, public transit improvement and congestion charging,  were paired together, making it difficult to disentangle the effects of each measure. Since we do not have a counterfactual case, or London without a congestion charge zone, it is impossible to isolate the impacts of these transport policies from other drivers of change and attribute the findings exclusively to them.
 
 #### Results
-Evidence in support of the hypothesis was found. Full results are discussed in the Final Report.
+Evidence in support of the hypothesis was found. 
+Full results are discussed in the Final Report.
 
 #### Next steps
 Further investigation of the misclassified cases could be performed, to more fully understand where they are located and why the model is not able to distinguish them. The neural network method could be further improved.
