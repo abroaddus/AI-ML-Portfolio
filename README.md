@@ -1,5 +1,5 @@
 ## Independent Projects Portfolio
-
+![headshot](./assets/headshot.jpg)
 **Projects I coded from scratch:**
 
 + Exploratory Data Analysis and Visualization [link](https://github.com/abroaddus/AI-ML-Portfolio/tree/main/Exploratory%20Data%20Analysis%20and%20Visualization/README.md)
