@@ -5,6 +5,13 @@
 #### Executive summary
 This project investigates whether certain transportation policies can have a discernible impact on land use values and firm locations over time in a city. This was the topic of my doctoral dissertation at UC Berkeley in 2015. Using average travel time by car and public transit as transportation accessibility indicators and urban economic data such as residential and firm populations and rents, binary classification models are estimated to understand the features most associated with areas located inside the congestion charge zone, compared with areas outside, and the most significant drivers of change over time.
 
+#### Outline of project
+
+- [Exploratory Data Analysis](https://github.com/abroaddus/AI-ML-Portfolio/blob/main/Using%20Machine%20Learning%20to%20Discern%20Policy%20Impacts/Exploratory_Data_Analysis_PCA.ipynb)
+- [Models for 2001 Dataset](https://github.com/abroaddus/AI-ML-Portfolio/blob/main/Using%20Machine%20Learning%20to%20Discern%20Policy%20Impacts/LR_RF_NN_Models_2001_Dataset.ipynb)
+- [Models for 2011 Dataset](https://github.com/abroaddus/AI-ML-Portfolio/blob/main/Using%20Machine%20Learning%20to%20Discern%20Policy%20Impacts/LR_RF_NN_Models_2011_Dataset.ipynb)
+- [Models for Percent Change Dataset](https://github.com/abroaddus/AI-ML-Portfolio/blob/main/Using%20Machine%20Learning%20to%20Discern%20Policy%20Impacts/LR_RF_NN_Models_Pct_Chg_Dataset.ipynb)
+
 #### Rationale
 There is a great deal of political resistance to the idea of reducing vehicle traffic in cities via congestion charging policies. If the policy is merely a tax on drivers which lacks benefits to the urban economy, this is correct. However if there are are demonstrable economic benefits in terms of employment growth and transit quality improvements, this would be an important finding in the field of urban planning.
 
@@ -112,15 +119,6 @@ Full results are discussed in the Final Report.
 
 #### Next steps
 Further investigation of the misclassified cases could be performed, to more fully understand where they are located and why the model is not able to distinguish them. The neural network method could be further improved.
-
-#### Outline of project
-
-- [Exploratory Data Analysis](https://github.com/abroaddus/AI-ML-Professional-Portfolio/blob/main/Capstone%20-%20London%20Transport%20Policy%20Analysis/Capstone_EDA.ipynb)
-- [Models for 2001 Dataset](https://github.com/abroaddus/AI-ML-Professional-Portfolio/blob/main/Capstone%20-%20London%20Transport%20Policy%20Analysis/Capstone_Modeling_2001_Dataset.ipynb)
-- [Models for 2001 Dataset](https://github.com/abroaddus/AI-ML-Professional-Portfolio/blob/main/Capstone%20-%20London%20Transport%20Policy%20Analysis/Capstone_Modeling_2011_Dataset.ipynb)
-- [Models for Percent Change Dataset](https://github.com/abroaddus/AI-ML-Professional-Portfolio/blob/main/Capstone%20-%20London%20Transport%20Policy%20Analysis/Capstone_Modeling_Pct_Chg_Dataset.ipynb)
-- [Final Report](https://github.com/abroaddus/AI-ML-Professional-Portfolio/blob/main/Capstone%20-%20London%20Transport%20Policy%20Analysis/Capstone%20Project%20Final%20Report.pdf)
-
 
 #### Contact and Further Information
 Andrea Broaddus, PhD
