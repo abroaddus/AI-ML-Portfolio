@@ -8,7 +8,7 @@ The data was analyzed to address the question, “Will a customer accept the cou
 
 The data was sourced from   came from the UCI Machine Learning repository. The raw data file had 12, 684 records and 26 features. There were 74 duplicate records, which I dropped. The feature “car” was almost entirely missing values, so it was dropped. Missing values in the features “CoffeeHouse”, “CarryAway”, “RestaurantLessThan20” and “Restaurant20to50” were filled with “never”. The final dataset had 12,536 records and 25 features.
 
-Link to Jupyter Notebook: [Exploratory Data Analysis Notebook]()
+Link to Jupyter Notebook: [Exploratory Data Analysis Notebook](https://github.com/abroaddus/AI-ML-Portfolio/blob/main/Exploratory%20Data%20Analysis%20and%20Visualization/Exploratory_Data_Analysis_and_Visualizations.ipynb)
 
 # Summary of Findings
 
