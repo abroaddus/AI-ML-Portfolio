@@ -1,6 +1,6 @@
 ## Independent Projects Portfolio
 
-<img src="./assets/headshot.jpg" alt="Logo" width="150" height="150">
+<img src="./assets/headshot.jpg" alt="Logo" width="140" height="150">
 
 **Projects I coded from scratch:**
 
