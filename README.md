@@ -1,7 +1,7 @@
 ## Independent Projects Portfolio
 
-![headshot]<img src=./assets/headshot.jpg" alt="Logo" />
-![headshot]<img src=./assets/headshot.jpg" alt="Logo" />
+![headshot]<img src="./assets/headshot.jpg" alt="Logo" />
+<img src="./assets/headshot.jpg" alt="Logo" />
 
 **Projects I coded from scratch:**
 
