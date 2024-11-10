@@ -5,6 +5,10 @@
 #### Executive summary
 The business objective of this project is to identify the factors that most influenced the results of marketing campaigns conducted by a Portuguese bank. The performance of four classifiers (k-nearest neighbors, logistic regression, decision trees, and support vector machines) was compared to a base model for predicting customers subscribing a term deposit. Factors contributing to customers saying ‘yes’ to marketing campaigns were identified, including customer characteristics, campaign timing, and frequency of contact. Successful campaigns targeted highly educated customers who had said yes in a previous campaign and spent the longest time with agents on the phone. They were contacted mid-week in the spring or fall at times when the Euribor rate and Consumer Price Index were both high.  
 
+- Link to Jupyter Notebook: [Predictive Model Notebook](https://github.com/abroaddus/AI-ML-Portfolio/blob/main/Using%20Classification%20to%20Build%20a%20Predictive%20Model/Predictive_Model_Notebook.ipynb)
+
+- Link to Final Report: [Predictive Model Report](https://github.com/abroaddus/AI-ML-Portfolio/blob/main/Using%20Classification%20to%20Build%20a%20Predictive%20Model/Predictive_Model_Report.pdf)
+
 #### Rationale
 Identifying the factors most related to success will allow better targeting of prospective clients and management of firm resources in marketing efforts, increasing efficiency and saving costs.
 
@@ -41,13 +45,6 @@ Based on these findings, we recommend the following:
 
 #### Next steps
 We recommend further data collection and modeling to improve predictions, due to the limited results of this effort. In particular, we need better data about the customer contact itself and specific messaging, since it appears that the agent had a significant influence on the outcome of a call.
-
-#### Outline of project
-
-- Link to Jupyter Notebook: [Predictive Model Notebook](https://github.com/abroaddus/AI-ML-Professional-Portfolio/blob/main/17%20Marketing%20Campaign%20Predictions/Marketing_Campaign_Predictions.ipynb)
-
-- Link to Final Report: [Predictive Model Report](https://github.com/abroaddus/AI-ML-Professional-Portfolio/blob/main/17%20Marketing%20Campaign%20Predictions/Marketing_Campaign_Predictions_Summary_Findings.pdf)
-
 
 ##### Contact and Further Information
 andrea.broaddus@gmail.com
