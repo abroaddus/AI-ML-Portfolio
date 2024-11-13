@@ -1,4 +1,4 @@
-<img src="./assets/headshot.jpg" alt="Logo" width="130" height="150">
+<kbd><img src="./assets/headshot.jpg" alt="Logo" width="130" height="150">
 
 ## Independent Projects Portfolio
 
