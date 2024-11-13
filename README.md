@@ -1,5 +1,7 @@
 <img src="./assets/headshot.jpg" alt="Logo" width="130" height="150">
+
 ## Independent Projects Portfolio
+
 **Projects I coded from scratch:**
 
 + Exploratory Data Analysis and Visualization [link](https://github.com/abroaddus/AI-ML-Portfolio/tree/main/Exploratory%20Data%20Analysis%20and%20Visualization/README.md)
